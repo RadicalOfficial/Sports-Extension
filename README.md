@@ -1,3 +1,12 @@
+<!---- Are you trying to see something or what? Here's this cat---->
+<!----
+                            ╱|、
+                          (˚ˎ 。7  
+                           |、˜〵          
+                          じしˍ,)ノ
+---->
+
+![](https://www.legendbowl.com/wp-content/uploads/2018/02/cropped-lb_logo1_trans-1-1-32x32.png)
 # Sports Extension
 A Scratch Extension for getting anything sports related like the NFL!
 Over the past weeks, I have been experimenting with Scratch Extensions and I thought it was cool to make my own so I've started by making YouTube Statistics however someone had sadly done that. This is when I started thinking about ideas and that's when we got a Sports Extension.
