@@ -15,6 +15,7 @@ Over the past weeks, I have been experimenting with Scratch Extensions and I tho
 These are the basic usage of the Sports Extension. Anyone who reads this will get the basic understanding of how it works.
 
 **Notice: In order to get an API Key, please sign up at [RapidAPI](https://rapidapi.com) or else the extension will not work!**
+*We could not find any free API's for this sadly*
 
 To get started, copy your API Key from RapidAPI and enter it in the block that looks similar to this
 ```
