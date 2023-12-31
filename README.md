@@ -6,7 +6,6 @@
                           じしˍ,)ノ
 ---->
 
-![](https://www.legendbowl.com/wp-content/uploads/2018/02/cropped-lb_logo1_trans-1-1-32x32.png)
 # Sports Extension
 A Scratch Extension for getting anything sports related like the NFL!
 Over the past weeks, I have been experimenting with Scratch Extensions and I thought it was cool to make my own so I've started by making YouTube Statistics however someone had sadly done that. This is when I started thinking about ideas and that's when we got a Sports Extension.
@@ -15,7 +14,7 @@ Over the past weeks, I have been experimenting with Scratch Extensions and I tho
 These are the basic usage of the Sports Extension. Anyone who reads this will get the basic understanding of how it works.
 
 **Notice: In order to get an API Key, please sign up at [RapidAPI](https://rapidapi.com) or else the extension will not work!**
-*We could not find any free API's for this sadly*
+*More features for people with no API key soon.*
 
 To get started, copy your API Key from RapidAPI and enter it in the block that looks similar to this
 ```
@@ -44,7 +43,7 @@ Here are all the blocks that is compatible with the API Key.
 
 (get NFL teams)    // Gets the NFL Teams
 (team index (Number Here) stats)     // Gets the index team's stats e.g. 1 being GreenBay Packers
-(days until Super Bowl)    // The Days until the Super Bowl LVIII (The next super bowl will not be accurate like 2024s)
+(days until Super Bowl)    // The Days until the Super Bowl LVIII (The next super bowl will not be accurate like 2025s, no API key needed) 
 ```
 <br>
 
