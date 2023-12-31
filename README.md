@@ -44,12 +44,16 @@ Here are all the blocks that is compatible with the API Key.
 
 (get NFL teams)    // Gets the NFL Teams
 (team index (Number Here) stats)     // Gets the index team's stats e.g. 1 being GreenBay Packers
-(days until Super Bowl)    // The Days until the Super Bowl LVIII (The next super bowl will not be accurate like 2025s, no API key needed) 
+(team's [ratio/abbreviation/streak v]) // Gets the Team's Win-Loss Ratio (5-2), Team Abbreviation (Atlanta -> ATL) or Win/Loss Streak.
+(random team stats from (value)) // Replace value with a number, gets a random team within the value range e.g. 6 will be pick random 1-6
+(days until Super Bowl)    // The Days until the Super Bowl LVIII (The next super bowl will not be accurate like Super Bowl LVIV, no API key needed) 
 ```
 <br>
 
 > [!important]
 > Using the player stats block incorrectly will cause bugs. Please use actual players, not random letters.
+
+For any bug reports, please send a github issue or pull request. Thank you!
 
 # Socials/Credits
 Thank you for using, this is the end of the documentation.
