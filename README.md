@@ -8,15 +8,20 @@
 
 # Sports Extension
 A Scratch Extension for getting anything sports related like the NFL!
-Over the past weeks, I have been experimenting with Scratch Extensions and I thought it was cool to make my own so I've started by making YouTube Statistics however someone had sadly done that. This is when I started thinking about ideas and that's when we got a Sports Extension.
+Over the past weeks, I have been experimenting with Scratch Extensions and I thought it was cool to make my own. I've started by making YouTube Statistics however someone had done that. This is when I started thinking about ideas and that's when we got a Sports Extension.
 
 # Documentation
 These are the basic usage of the Sports Extension. Anyone who reads this will get the basic understanding of how it works.<br>
-A Scratch Project documentation will be released soon!
+A Scratch Project documentation will be released soon!<br>
 
-**Notice: In order to get an API Key, please sign up at [RapidAPI](https://rapidapi.com) or else the extension will not work!**
+> [!note]
+> To use this, use the [TurboWarp URL](https://turbowarp.org/editor?extension=https://radicalofficial.github.io/sports.js)
 
+> [!important]
+> **In order to get an API Key, please sign up at [RapidAPI](https://rapidapi.com) or else the extension will not work!**
 
+<br><br>
+## Getting Started
 To get started, copy your API Key from RapidAPI and enter it in the block that looks similar to this
 ```
 |Set API Key to (Your API Key Here) |
@@ -50,7 +55,7 @@ Here are all the blocks that is compatible with the API Key.
 ```
 <br>
 
-> [!important]
+> [!warning]
 > Using the player stats block incorrectly will cause bugs. Please use actual players, not random letters.
 
 For any bug reports, please send a github issue or pull request. Thank you!
