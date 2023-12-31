@@ -11,10 +11,11 @@ A Scratch Extension for getting anything sports related like the NFL!
 Over the past weeks, I have been experimenting with Scratch Extensions and I thought it was cool to make my own so I've started by making YouTube Statistics however someone had sadly done that. This is when I started thinking about ideas and that's when we got a Sports Extension.
 
 # Documentation
-These are the basic usage of the Sports Extension. Anyone who reads this will get the basic understanding of how it works.
+These are the basic usage of the Sports Extension. Anyone who reads this will get the basic understanding of how it works.<br>
+A Scratch Project documentation will be released soon!
 
 **Notice: In order to get an API Key, please sign up at [RapidAPI](https://rapidapi.com) or else the extension will not work!**
-*More features for people with no API key soon.*
+
 
 To get started, copy your API Key from RapidAPI and enter it in the block that looks similar to this
 ```
