@@ -24,7 +24,7 @@ A Scratch Project documentation will be released soon!<br>
 ## Getting Started
 To get started, copy your API Key from RapidAPI and enter it in this block below.<br><br>
 ![](apikey.png)<br>
-The block above will not return anything, the only way to test to see if your API Key works is to use any block. Errors appearing due to no API Key are intentional.
+The block above will not return anything when clicked, the only way to test to see if your API Key works is to use any block made by this extension. Errors appearing due to no API Key are intentional.
 
 **More Usages:**<br>
 Here are all the blocks that is compatible with the API Key.
