@@ -12,7 +12,6 @@ Over the past weeks, I have been experimenting with Scratch Extensions and I tho
 
 # Documentation
 These are the basic usage of the Sports Extension. Anyone who reads this will get the basic understanding of how it works.<br>
-A Scratch Project documentation will be released soon!<br>
 
 > [!note]
 > To use this, use the [TurboWarp URL](https://turbowarp.org/editor?extension=https://radicalofficial.github.io/sports.js)
