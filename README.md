@@ -53,7 +53,7 @@ Here are all the blocks that is compatible with the API Key.
 <br>
 
 > [!warning]
-> Using the player stats block incorrectly will cause bugs. Please use actual players, not random letters.
+> Using the player stats block incorrectly will cause bugs. Please use actual players, not random letters.<br>
 > The days until the Super Bowl date are manually set in the extension. We do not want to cause any form of API spam.
 
 For any bug reports, please send a GitHub issue or pull request. Thank you!
