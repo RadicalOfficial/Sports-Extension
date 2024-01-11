@@ -7,17 +7,17 @@
 ---->
 
 # Sports Extension
-A Scratch Extension for getting anything sports related like the NFL!
-Over the past weeks, I have been experimenting with Scratch Extensions and I thought it was cool to make my own. I've started by making YouTube Statistics however someone had done that. This is when I started thinking about ideas and that's when we got a Sports Extension.
+A Scratch Extension for getting anything sports-related like the NFL!
+Over the past weeks, I have been experimenting with Scratch Extensions and I thought it was cool to make my own. I started by making YouTube Statistics however someone had done that. This is when I started thinking about ideas and that's when we got a Sports Extension.
 
 # Documentation
-These are the basic usage of the Sports Extension. Anyone who reads this will get the basic understanding of how it works.<br>
+These are the basic usage of the Sports Extension. Anyone who reads this will get a basic understanding of how it works.<br>
 
 > [!note]
 > To use this, use the [TurboWarp URL](https://turbowarp.org/editor?extension=https://radicalofficial.github.io/sports.js)
 
 > [!important]
-> **In order to get an API Key, please sign up at [RapidAPI](https://rapidapi.com) or else the extension will not work!**
+> **In order to get an API Key, please sign up at [RapidAPI](https://rapidapi.com), or else the extension will not work!**
 
 <br><br>
 ## Getting Started
@@ -30,14 +30,14 @@ Here are all the blocks that is compatible with the API Key.
 ```
 /* FOOTBALL / NFL */
 
-(player (Your NFL Player) stats)   // Gets the stats for the player, If the Status Code is 200, that means it's successful.
+(player (Your NFL Player) stats)   // Gets the stats for the player, If the Status Code is 200, it's successful.
 
 (player's [short name/jersey/team/height/age/birthday/position v])
 
 /* Details about the block */
 // Short name - Gets a shorter version of the name. E.g. Tom Brady -> T. Brady
 // Jersey - Player's jersey number
-// Team - Player's team they're in
+// Team - The player's team they're in
 // Height - Player's height
 // Age - Player's Age
 // Birthday - You get what this is but in case you don't, Player's B-Day
@@ -47,18 +47,19 @@ Here are all the blocks that is compatible with the API Key.
 (get NFL teams)    // Gets the NFL Teams
 (team index (Number Here) stats)     // Gets the index team's stats e.g. 1 being GreenBay Packers
 (team's [ratio/abbreviation/streak v]) // Gets the Team's Win-Loss Ratio (5-2), Team Abbreviation (Atlanta -> ATL) or Win/Loss Streak.
-(random team stats from (value)) // Replace value with a number, gets a random team within the value range e.g. 6 will be pick random 1-6
-(days until Super Bowl)    // The Days until the Super Bowl LVIII (The next super bowl will not be accurate like Super Bowl LVIV, no API key needed) 
+(random team stats from (value)) // Replace value with a number. Gets a random team within the value range e.g. 6 will be picking random 1-6
+(days until Super Bowl)    // The Days until the Super Bowl LVIII (The next Super Bowl will not be accurate like Super Bowl LVIV, no API key needed) 
 ```
 <br>
 
 > [!warning]
 > Using the player stats block incorrectly will cause bugs. Please use actual players, not random letters.
+> The days until the Super Bowl date are manually set in the extension. We do not want to cause any form of API spam.
 
-For any bug reports, please send a github issue or pull request. Thank you!
+For any bug reports, please send a GitHub issue or pull request. Thank you!
 
 # Socials/Credits
-Thank you for using, this is the end of the documentation.
+Thank you for using the sports extension, this is the end of the documentation.
 
 Credits to [@wolfieboy09](https://github.com/wolfieboy09) for collaborating to make this project.<br>
 Credits to [RapidAPI](https://rapidapi.com) for making this possible.<br>
